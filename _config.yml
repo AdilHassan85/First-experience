@@ -1,0 +1,8 @@
+title: "Adil Hassan Blog"
+tagline: "Decoding Technology"
+description: "Mera pehla blog"
+url: "https://adilhassan85.github.io"
+baseurl: "/First-experience"
+
+# Theme setting
+remote_theme: cotes2020/jekyll-theme-chirpy
